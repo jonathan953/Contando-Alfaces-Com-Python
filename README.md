@@ -12,7 +12,7 @@ Este é um projeto simples para contar a quantidade de alfaces em um vídeo usan
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/seu-usuario/SeuRepositorio.git
+   git clone https://github.com/jonathan953/Contando-Alfaces-Com-Python.git
 
 2. Certifique-se de que você tenha Python e OpenCV instalados no seu sistema.
 
