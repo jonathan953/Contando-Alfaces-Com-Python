@@ -30,13 +30,13 @@ Este é um projeto simples para contar a quantidade de alfaces em um vídeo usan
 
 5. A quantidade de alfaces contadas será armazenada no arquivo `quantidade_alfaces.txt` no mesmo diretório do código.
 
-## Contribuições
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) ou enviar solicitações de pull (pull requests) para melhorar este projeto.
-
 ## Exemplo de Saída
 
 ![Exemplo de Saída](/images/output-alface.PNG)
+
+## Contribuições
+
+Contribuições são bem-vindos! Sinta-se à vontade para abrir problemas (issues) ou enviar solicitações de pull (pull requests) para melhorar este projeto.
 
 ## Licença
 
