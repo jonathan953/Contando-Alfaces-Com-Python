@@ -9,10 +9,10 @@ Este é um projeto simples para contar a quantidade de alfaces em um vídeo usan
 
 ## Instalação
 
-1. Clone o repositório para o seu sistema local:
+1. **Clone o repositório:**
 
-```git clone https://github.com/seu-usuario/SeuRepositorio.git```
-
+   ```bash
+   git clone https://github.com/seu-usuario/SeuRepositorio.git
 
 2. Certifique-se de que você tenha Python e OpenCV instalados no seu sistema.
 
@@ -30,7 +30,7 @@ Este é um projeto simples para contar a quantidade de alfaces em um vídeo usan
 
 ## Exemplo de Saída
 
-![Exemplo de Saída](/images/output-alface.PNG)
+![Exemplo de Saída](images/output-alface.PNG)
 
 ## Contribuições
 
