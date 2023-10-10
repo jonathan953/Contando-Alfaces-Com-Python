@@ -34,7 +34,7 @@ Este é um projeto simples para contar a quantidade de alfaces em um vídeo usan
 
 ## Contribuições
 
-Contribuições são bem-vindos! Sinta-se à vontade para abrir problemas (issues) ou enviar solicitações de pull (pull requests) para melhorar este projeto.
+Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) ou enviar solicitações de pull (pull requests) para melhorar este projeto.
 
 ## Licença
 
