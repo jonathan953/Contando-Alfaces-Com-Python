@@ -16,8 +16,6 @@ Este é um projeto simples para contar a quantidade de alfaces em um vídeo usan
 
 2. Certifique-se de que você tenha Python e OpenCV instalados no seu sistema.
 
-3. Baixe o vídeo `alface.mp4` e coloque-o na pasta `data` do projeto.
-
 ## Como Usar
 
 1. Execute o script Python `Alface.py` para iniciar a contagem de alfaces.
